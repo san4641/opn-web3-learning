@@ -1,0 +1,14 @@
+{
+  "name": "opn-web3-learning",
+  "version": "1.0.0",
+  "description": "A beginner-friendly Web3 learning project using Solidity and Hardhat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "hardhat test",
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.19"
+  }
+}
